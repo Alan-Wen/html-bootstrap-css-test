@@ -1,2 +1,2 @@
-# skyline-esports-website
-Official club website. Currently under development by Alan Wen, and maybe Elbert Cheng.
+# Testing to see how all of this works.
+Who knows how long it'll take.
